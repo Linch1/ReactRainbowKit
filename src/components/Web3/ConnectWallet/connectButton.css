@@ -1,0 +1,5 @@
+.connected-wallet img{
+    width: var(--connect-wallet-button-size);
+    height: var(--connect-wallet-button-size);
+    cursor: pointer;
+}

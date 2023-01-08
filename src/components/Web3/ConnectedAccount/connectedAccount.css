@@ -1,0 +1,23 @@
+.connected-account {
+    padding: 3px 5px;
+    border-radius: 5px;
+    background-color: orange;
+    font-family: var(--bungee-font);
+    font-weight: var(--bungee-normal);
+    -webkit-text-stroke: 1px var(--font-color);
+
+    font-size: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.connected-account .address{
+    font-family: var(--bungee-font);
+    font-weight: var(--bungee-normal);
+    -webkit-text-stroke: 1px var(--font-color);
+
+    background-color: unset;
+    border: 0;
+    padding: 0;
+}
